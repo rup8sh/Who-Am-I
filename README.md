@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupsh&label=Profile%20views&color=0e75b6&style=flat" alt="rupsh" /> </p>
 
-- 🔭 I’m currently working on **C++ & Development**
+- 🔭 I’m currently working on **Java , C++ & Development**
 
 - 🌱 I’m currently learning **Java , Spring , SpringBoot , JPA , Hibernate, Java REST API , Junit , Mockito , Spring Security , Spring AOP , Maven , Gradle , Docker , React and Azure.**
 
